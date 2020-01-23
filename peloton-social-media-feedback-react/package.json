@@ -1,0 +1,40 @@
+{
+  "name": "taylor-real-final-project",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "classnames": "^2.2.6",
+    "react": "16.12.0",
+    "react-bootstrap": "^1.0.0-beta.16",
+    "react-burger-menu": "^2.6.13",
+    "react-dom": "16.12.0",
+    "react-flippy": "0.1.5",
+    "react-redux": "^7.1.3",
+    "react-router-dom": "5.1.2",
+    "react-scripts": "3.0.1",
+    "react-social-icons": "4.1.0",
+    "react-spinners": "^0.8.0",
+    "react-twitter-embed": "^3.0.3",
+    "redux": "^4.0.5",
+    "styled-components": "^5.0.0"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://localhost:5000",
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

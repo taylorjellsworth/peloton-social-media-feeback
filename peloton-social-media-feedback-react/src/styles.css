@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+}
+
+body {
+  height: 100vh;
+  background-color: #e4e7eb;
+}
+
+#nav-dropdown {
+  color: white;
+  font-weight: bold;
+  border: none;
+  background-color: #ff3347;
+}
+
+#search-dropdown {
+  color: white;
+  font-weight: bold;
+  border: none;
+  background-color: rgb(178, 182, 187);
+  text-align: center;
+}
